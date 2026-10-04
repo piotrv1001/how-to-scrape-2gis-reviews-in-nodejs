@@ -1,0 +1,36 @@
+[
+  {
+    "placeId": "EXAMPLE-PLACE-001",
+    "placeUrl": "https://2gis.ae/dubai/firm/example-place-001",
+    "placeRating": 4.2,
+    "placeReviewsCount": 120,
+    "reviewId": "EXAMPLE-REVIEW-001",
+    "text": "Helpful staff, but the queue was long.",
+    "rating": 3,
+    "dateCreated": "2026-10-01T10:00:00+04:00",
+    "dateEdited": null,
+    "likesCount": 2,
+    "photos": [],
+    "ownerAnswerText": "Thank you for the feedback. We will review the wait time.",
+    "ownerAnswerDate": "2026-10-02T09:30:00+04:00",
+    "source": "2gis",
+    "scrapedAt": "2026-10-04T08:00:00Z"
+  },
+  {
+    "placeId": "EXAMPLE-PLACE-001",
+    "placeUrl": "https://2gis.ae/dubai/firm/example-place-001",
+    "placeRating": 4.2,
+    "placeReviewsCount": 120,
+    "reviewId": "EXAMPLE-REVIEW-002",
+    "text": "The order was incorrect.",
+    "rating": 2,
+    "dateCreated": "2026-10-03T15:00:00+04:00",
+    "dateEdited": null,
+    "likesCount": 0,
+    "photos": [],
+    "ownerAnswerText": null,
+    "ownerAnswerDate": null,
+    "source": "2gis",
+    "scrapedAt": "2026-10-04T08:00:00Z"
+  }
+]
