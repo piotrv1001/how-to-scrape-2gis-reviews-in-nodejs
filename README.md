@@ -2,6 +2,10 @@
 
 This example calls the [2GIS Reviews Scraper](https://apify.com/piotrv1001/2gis-reviews-scraper) through Apify's Node.js client. It uses an existing Actor; it does not implement a scraper.
 
+![2GIS review dataset with ratings, text, dates, owner replies, and place URL](./2gis_reviews_results.png)
+
+The screenshot shows ten visible reviews for the Dubai place from a separate run. The code below requests up to 20 recent reviews.
+
 ## What this example does
 
 - Calls the Actor with one public 2GIS place URL
